@@ -7,11 +7,11 @@ I build responsive websites and modern landing pages using WordPress and fronten
 I also design and recreate professional visuals using Canva for branding and digital content.
 
 Skills:
-  WordPress
-  Responsive Web Design
-  UI Design
-  Elementor
-  Canva
+  -WordPress
+  -Responsive Web Design
+  -UI Design
+  -Elementor
+  -Canva
 
 <!--
 **AyeshaAbid892/AyeshaAbid892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
