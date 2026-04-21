@@ -6,9 +6,10 @@ Passionate about building modern, responsive, and high-performing websites using
 I specialize in creating clean, user-focused designs, optimizing website structure, and developing effective landing pages.
 
 Experience in:
-Landing page development
-Custom WordPress websites
-Responsive layouts & UI improvements
+Landing Page Development
+Custom WordPress Development
+Responsive Web Design
+UI/UX Improvements
 
 Currently enhancing my skills to build more advanced, scalable, and efficient WordPress solutions.
 
