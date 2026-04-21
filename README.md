@@ -9,7 +9,7 @@ Passionate about building modern, responsive, and high-performing websites using
 * Landing Page Development
 * Custom WordPress Development
 * Responsive Web Design
-* UI/UX Improvements
+* User Interface (UI) Design
 
 Currently enhancing my skills to build more advanced, scalable, and efficient WordPress solutions.
 
