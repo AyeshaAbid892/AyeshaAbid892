@@ -10,6 +10,8 @@ Passionate about building modern, responsive, and high-performing websites using
 * Custom WordPress Development
 * Responsive Web Design
 * User Interface (UI) Design
+* Problem Solving & Logical Thinking
+
 
 Currently enhancing my skills to build more advanced, scalable, and efficient WordPress solutions.
 
