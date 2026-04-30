@@ -1,18 +1,36 @@
-Hi, I'm Ayesha Abid 👋
+🚀 Ayesha Abid
+Creative Technologist | AI-Enhanced Web Architecture | Immersive 3D Experiences
 
-WordPress Developer
+I bridge the gap between functional development and the next generation of web design. I don’t just build websites; I engineer intelligent digital ecosystems that outperform traditional static sites.
 
-Passionate about building modern, responsive, and high-performing websites using WordPress and Elementor. I specialize in creating clean, user-focused designs, optimizing website structure, and developing effective landing pages.
+🛠️ Expertise & Intelligence
 
-### Experience in
+AI-Augmented Development: Leveraging algorithmic tools to optimize code efficiency and UI/UX performance.
 
-* Landing Page Development
-* Custom WordPress Development
-* Responsive Web Design
-* User Interface (UI) Design
-* Problem Solving & Logical Thinking
+Immersive Design: Crafting 3D-integrated layouts (Spline/Three.js) and dynamic animations within WordPress.
 
+Intelligent Architecture: Building scalable, high-conversion structures using WordPress & Elementor.
 
-Currently enhancing my skills to build more advanced, scalable, and efficient WordPress solutions.
+💻 Technical Stack
 
-Consistent learner | Focused on growth & quality
+Engine: WordPress, MySQL, Advanced Custom Fields (ACF).
+
+Design & Motion: Elementor Pro, GSAP, CSS3 (Flex/Grid), Spline.
+
+AI Tools: Generative Design methodologies & AI-driven workflow optimization.
+
+🏆 Key Focus Area
+
+Currently accelerating the transition from standard layouts to high-performance reality, focusing on the "What's Next" of the web.
+
+✨ Honors & Recognitions
+
+[1st Position/Web Alchemy] — Aug 2024
+
+[1st Position/Java Ninjas] — 2025
+
+[1st Position/Game Fusion] — 2025
+
+📫 Connect with Me
+
+LinkedIn | Email
