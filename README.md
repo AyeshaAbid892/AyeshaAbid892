@@ -31,6 +31,4 @@ Currently accelerating the transition from standard layouts to high-performance 
 
 [1st Position/Game Fusion] — 2025
 
-📫 Connect with Me
-
-LinkedIn | Email
+Honored with a series of top-tier awards at Riphah International University, demonstrating a versatile command over web architecture, core programming, and interactive design.
